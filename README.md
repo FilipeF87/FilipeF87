@@ -5,9 +5,6 @@
   <em>Secure • Monitor • Automate</em>
 </p>
 
-
----
-
 ## 👋 À propos de moi
 
 🎓 Actuellement en **Formation Administrateur Systèmes & Réseaux**  
