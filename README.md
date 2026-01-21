@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗲𝘂𝗿+𝗦𝘆𝘀𝘁𝗲̀𝗺𝗲𝘀+%26+𝗥𝗲́𝘀𝗲𝗮𝘂𝘅;Linux+%7C+Ubuntu+%7C+Debian;Réseaux+%7C+Sécurité+%7C+Automatisation" />
-</p>
-
+<h1 align="center">
+  <span style="font-family: 'Courier New', monospace;">
+    <span style="color:#0A66C2;">Administrateur</span>
+    <span style="color:#111;"> Systèmes</span>
+    <span style="color:#0A66C2;"> & Réseaux</span>
+  </span>
+</h1>
 ---
 
 <h3 align="center">
