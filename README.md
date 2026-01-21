@@ -5,11 +5,6 @@
     <span style="color:#0A66C2;"> & Réseaux</span>
   </span>
 </h1>
----
-
-<h3 align="center">
-  𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗲𝘂𝗿 𝗦𝘆𝘀𝘁𝗲̀𝗺𝗲𝘀 & 𝗥𝗲́𝘀𝗲𝗮𝘂𝘅
-</h3>
 
 <p align="center">
   <code>Ubuntu • Debian • Réseaux • Sécurité • Bash • Docker</code>
