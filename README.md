@@ -12,7 +12,7 @@
 
 ## 👋 À propos de moi
 
-🎓 Actuellement en **formation Administrateur Systèmes & Réseaux**  
+🎓 Actuellement en **Formation Administrateur Systèmes & Réseaux**  
 💻 Intéressé par l’administration **Linux (Ubuntu & Debian)**  
 🧠 Apprentissage par la pratique à travers des **labs et projets concrets**  
 🚀 Objectif : devenir **Administrateur Systèmes & Réseaux junior**
