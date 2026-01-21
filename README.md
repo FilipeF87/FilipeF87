@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Administrateur Systèmes & Réseaux</h1>
 
-<!--
-**FilipeF87/FilipeF87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>En formation | Passionné par Linux, Réseaux & Sécurité</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🐧 Ubuntu • Debian | 🌐 Réseaux | 🔐 Sécurité | 🛠️ Bash
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 À propos de moi
+
+🎓 Actuellement en **formation Administrateur Systèmes & Réseaux**  
+💻 Intéressé par l’administration **Linux (Ubuntu & Debian)**  
+🧠 Apprentissage par la pratique à travers des **labs et projets concrets**  
+🚀 Objectif : devenir **Administrateur Systèmes & Réseaux junior**
+
+---
+
+## 🧰 Compétences techniques
+
+### 🖥️ Systèmes
+- Linux : Ubuntu, Debian
+- Gestion des utilisateurs & permissions
+- Services Linux (systemd)
+- Installation et configuration de serveurs
+
+### 🌐 Réseaux
+- Adressage IP
+- DNS / DHCP (bases)
+- Modèles OSI & TCP/IP
+- Labs Packet Tracer / GNS3
+
+### 🔧 Automatisation
+- Bash (scripts d’administration)
+- Cron (tâches planifiées)
+
+### 🔐 Sécurité (bases)
+- SSH sécurisé
+- Pare-feu (UFW / iptables)
+- Fail2Ban
+
+### 🐳 Conteneurs
+- Docker (bases)
+- Docker Compose
+
+---
+
+## 📂 Projets GitHub
+
+📌 *Ce GitHub contient mes scripts, labs et projets réalisés pendant ma formation.*
+
+⭐ **Mini-infrastructure Linux**  
+🐧 Serveur Linux sécurisé + Docker + automatisation  
+
+🛠️ **Scripts Bash d’administration**  
+Automatisation de tâches système  
+
+🌐 **Labs Réseaux**  
+Adressage IP, DNS, DHCP, topologies  
+
+---
+
+## 🎯 Objectif professionnel
+
+Intégrer une entreprise en tant qu’**Administrateur Systèmes & Réseaux junior**,  
+continuer à monter en compétences et évoluer vers des environnements plus complexes.
+
+---
+
+<p align="center">
+  📚 Learning by doing • 🔧 Practice • 🚀 Progress
+</p>
+
