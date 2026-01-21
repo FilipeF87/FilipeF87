@@ -1,26 +1,35 @@
-<h1 align="center">
-  🔐 Administrateur Systèmes & Réseaux
-</h1>
 <p align="center">
-  <em>Secure • Monitor • Automate</em>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗲𝘂𝗿+𝗦𝘆𝘀𝘁𝗲̀𝗺𝗲𝘀+%26+𝗥𝗲́𝘀𝗲𝗮𝘂𝘅;Linux+%7C+Ubuntu+%7C+Debian;Réseaux+%7C+Sécurité+%7C+Automatisation" />
 </p>
-
-## 👋 À propos de moi
-
-🎓 Actuellement en **Formation Administrateur Systèmes & Réseaux**  
-💻 Intéressé par l’administration **Linux (Ubuntu & Debian)**  
-🧠 Apprentissage par la pratique à travers des **labs et projets concrets**  
-🚀 Objectif : devenir **Administrateur Systèmes & Réseaux junior**
 
 ---
 
-## 🧰 Compétences techniques
+<h3 align="center">
+  𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗲𝘂𝗿 𝗦𝘆𝘀𝘁𝗲̀𝗺𝗲𝘀 & 𝗥𝗲́𝘀𝗲𝗮𝘂𝘅
+</h3>
+
+<p align="center">
+  <code>Ubuntu • Debian • Réseaux • Sécurité • Bash • Docker</code>
+</p>
+
+---
+
+## 👋 À propos de moi
+
+🎓 En formation **Administrateur Systèmes & Réseaux**  
+🐧 Passionné par l’administration Linux (**Ubuntu & Debian**)  
+🌐 Intéressé par les infrastructures réseau et la sécurité  
+🛠️ J’apprends par la pratique avec des **labs et projets concrets**
+
+---
+
+## 🧰 Compétences
 
 ### 🖥️ Systèmes
 - Linux : Ubuntu, Debian
 - Gestion des utilisateurs & permissions
 - Services Linux (systemd)
-- Installation et configuration de serveurs
+- Installation et configuration serveur
 
 ### 🌐 Réseaux
 - Adressage IP
@@ -30,9 +39,9 @@
 
 ### 🔧 Automatisation
 - Bash (scripts d’administration)
-- Cron (tâches planifiées)
+- Cron
 
-### 🔐 Sécurité (bases)
+### 🔐 Sécurité
 - SSH sécurisé
 - Pare-feu (UFW / iptables)
 - Fail2Ban
@@ -43,29 +52,17 @@
 
 ---
 
-## 📂 Projets GitHub
+## 📂 Projets
 
-📌 *Ce GitHub contient mes scripts, labs et projets réalisés pendant ma formation.*
+📌 Ce GitHub contient mes **scripts, labs et projets** réalisés durant ma formation.
 
-⭐ **Mini-infrastructure Linux**  
-🐧 Serveur Linux sécurisé + Docker + automatisation  
-
-🛠️ **Scripts Bash d’administration**  
-Automatisation de tâches système  
-
-🌐 **Labs Réseaux**  
-Adressage IP, DNS, DHCP, topologies  
-
----
-
-## 🎯 Objectif professionnel
-
-Intégrer une entreprise en tant qu’**Administrateur Systèmes & Réseaux junior**,  
-continuer à monter en compétences et évoluer vers des environnements plus complexes.
+⭐ Mini infrastructure Linux  
+⭐ Scripts Bash d’administration  
+⭐ Labs Réseaux & Sécurité
 
 ---
 
 <p align="center">
-  📚 Learning by doing • 🔧 Practice • 🚀 Progress
+  🔧 <strong>Learn</strong> • 🧠 <strong>Practice</strong> • 🚀 <strong>Progress</strong>
 </p>
 
