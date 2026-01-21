@@ -1,6 +1,6 @@
 <p align="center">
 
-
+<pre>
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                      //
 //                                                                                                                      //
@@ -17,7 +17,7 @@
 //                                                                                                                      //
 //                                                                                                                      //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+</pre>
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" />
