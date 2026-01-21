@@ -1,12 +1,10 @@
-<h1 align="center">👨‍💻 Administrateur Systèmes & Réseaux</h1>
-
+<h1 align="center">
+  🔐 Administrateur Systèmes & Réseaux
+</h1>
 <p align="center">
-  <strong>En formation | Passionné par Linux, Réseaux & Sécurité</strong>
+  <em>Secure • Monitor • Automate</em>
 </p>
 
-<p align="center">
-  🐧 Ubuntu • Debian | 🌐 Réseaux | 🔐 Sécurité | 🛠️ Bash
-</p>
 
 ---
 
