@@ -7,7 +7,15 @@
 </h1>
 
 <p align="center">
-  <code>Ubuntu • Debian • Réseaux • Sécurité • Bash • Docker</code>
+  <p align="center">
+  <code>🐧 Ubuntu</code>
+  <code>🐧 Debian</code>
+  <code>🌐 Réseaux</code>
+  <code>🔐 Sécurité</code>
+  <code>🛠️ Bash</code>
+  <code>🐳 Docker</code>
+</p>
+
 </p>
 
 ---
