@@ -47,7 +47,7 @@
 
 ---
 
-🧰 <h3>Compétences</h3>
+ <h3>🧰Compétences</h3>
 
 ### 🖥️ Systèmes
 - Linux : Ubuntu, Debian
@@ -77,7 +77,7 @@
 ---
 
 
- 📂  <h3>Projets</h3>
+   <h3>📂Projets</h3>
 
 📌 Ce GitHub contient mes **scripts, labs et projets** réalisés durant ma formation.
 
