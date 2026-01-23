@@ -39,3 +39,54 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/></a>
 </p>
+<h2>👋 À propos de moi</h2>
+🎓 En formation **Administrateur Systèmes & Réseaux**  
+🐧 Passionné par l’administration Linux (**Ubuntu & Debian**)  
+🌐 Intéressé par les infrastructures réseau et la sécurité  
+🛠️ J’apprends par la pratique avec des **labs et projets concrets**
+
+---
+
+🧰 <h2>Compétences</h2>
+
+### 🖥️ Systèmes
+- Linux : Ubuntu, Debian
+- Gestion des utilisateurs & permissions
+- Services Linux (systemd)
+- Installation et configuration serveur
+
+### 🌐 Réseaux
+- Adressage IP
+- DNS / DHCP (bases)
+- Modèles OSI & TCP/IP
+- Labs Packet Tracer / GNS3
+
+### 🔧 Automatisation
+- Bash (scripts d’administration)
+- Cron
+
+### 🔐 Sécurité
+- SSH sécurisé
+- Pare-feu (UFW / iptables)
+- Fail2Ban
+
+### 🐳 Conteneurs
+- Docker (bases)
+- Docker Compose
+
+---
+
+## 📂 Projets
+
+📌 Ce GitHub contient mes **scripts, labs et projets** réalisés durant ma formation.
+
+⭐ Mini infrastructure Linux  
+⭐ Scripts Bash d’administration  
+⭐ Labs Réseaux & Sécurité
+
+---
+
+<p align="center">
+  🔧 <strong>Learn</strong> • 🧠 <strong>Practice</strong> • 🚀 <strong>Progress</strong>
+</p>
+
