@@ -76,7 +76,8 @@
 
 ---
 
- 📂 <h3>Projets</h3>
+
+ 📂  <h3>Projets</h3>
 
 📌 Ce GitHub contient mes **scripts, labs et projets** réalisés durant ma formation.
 
