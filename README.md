@@ -20,17 +20,6 @@
 
 </p>
 </pre>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Reseaux-%23007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Securite-%23000000?style=for-the-badge&logo=openvpn&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-%2312100E?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-%231249ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</p>
-
 ---
 ## Languages de Programations et Otils 
 <p align="center">
