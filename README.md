@@ -22,13 +22,14 @@
 </pre>
 ---
 ## Languages de Programations et Otils 
-<p align="center">
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-%2300D8FF?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-%230078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-%23F26B2A?style=for-the-badge&logo=zabbix&logoColor=white" />
 
 ## 👋 À propos de moi
 ---
