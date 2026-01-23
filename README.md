@@ -45,6 +45,7 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="40" height="40"/></a>
   <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" title="Zabbix" width="40" height="40"/></a>
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/proxmox.svg" alt="Zabbix" title="Zabbix" width="40" height="40"/></a>
 </p>
 
 <h3>👋 À propos de moi</h3>
