@@ -32,7 +32,7 @@
 </p>
 
 ---
-Languages de Programations et Otils 
+## Languages de Programations et Otils 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
