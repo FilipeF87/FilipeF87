@@ -19,7 +19,7 @@
 >>=======================================================================================================<<
 
 </p>
-
+---
 </pre>
 <p align="center">
 <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -32,6 +32,8 @@
 </p>
 
 ---
+Languages de Programations et Otils 
+
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +41,7 @@
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## 👋 À propos de moi
-
+---
 🎓 En formation **Administrateur Systèmes & Réseaux**  
 🐧 Passionné par l’administration Linux (**Ubuntu & Debian**)  
 🌐 Intéressé par les infrastructures réseau et la sécurité  
