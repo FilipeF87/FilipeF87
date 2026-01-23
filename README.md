@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=windows-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%20Server-%230078D6?style=for-the-badge&logo=windows-server&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-%23F26B2A?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-%23F26B2A?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%23F26B2A?style=for-the-badge&logo=docker&logoColor=blue" />
 </p>
 
 ## 👋 À propos de moi
