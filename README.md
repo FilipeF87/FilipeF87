@@ -22,7 +22,7 @@
 
 </pre>
 <p align="center">
- <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Réseaux-%23007ACC?style=for-the-badge&logo=networking&logoColor=white" />
 <img src="https://img.shields.io/badge/Sécurité-%23000000?style=for-the-badge&logo=shield&logoColor=white" />
