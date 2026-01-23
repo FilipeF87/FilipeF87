@@ -21,6 +21,7 @@
 </p>
 </pre>
 ---
+<p align="center">
 ## Languages de Programations et Otils 
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +31,7 @@
 <img src="https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows%20Server-%230078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-%23F26B2A?style=for-the-badge&logo=zabbix&logoColor=white" />
+</p>
 
 ## 👋 À propos de moi
 ---
