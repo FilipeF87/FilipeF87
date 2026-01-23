@@ -34,8 +34,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/></a>
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" title="Apache Cordova" width="40" height="40"/></a>
   </p>
+
+<h3>Outils</h3> 
   <p align="center">
-  <h3>Outils</h3> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/></a>
@@ -43,6 +44,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" width="40" height="40"/></a>
 </p>
+
 <h3>👋 À propos de moi</h3>
 🎓 En formation **Administrateur Systèmes & Réseaux**  
 🐧 Passionné par l’administration Linux (**Ubuntu & Debian**)  
