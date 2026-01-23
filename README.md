@@ -38,7 +38,6 @@
 </p>
 
 ## 👋 À propos de moi
----
 🎓 En formation **Administrateur Systèmes & Réseaux**  
 🐧 Passionné par l’administration Linux (**Ubuntu & Debian**)  
 🌐 Intéressé par les infrastructures réseau et la sécurité  
